@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/xarceus0406" target="blank"><img src="https://img.shields.io/twitter/follow/xarceus0406?logo=twitter&style=for-the-badge" alt="xarceus0406" /></a> </p>
 
-- 🔭 I’m currently working on [Codeial- Social Media Web Application](https://github.com/Akash0406/Codeial)
+- 🔭 I’m currently working on [SoSocial- Social Media Web Application](https://github.com/Akash0406/Codeial)
 
 - 🌱 I’m currently learning **Node.js & React.js**
 
