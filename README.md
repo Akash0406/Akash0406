@@ -15,14 +15,8 @@
 <p align="left">
 <a href="https://twitter.com/xarceus0406" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="xarceus0406" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/xarceus0406" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="xarceus0406" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/14568575" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14568575" height="30" width="40" /></a>
-<a href="https://fb.com/profile.php?id=100034127910158" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="profile.php?id=100034127910158" height="30" width="40" /></a>
 <a href="https://instagram.com/aks_0406" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aks_0406" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/starx0406" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="starx0406" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/xarceus0406" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="xarceus0406" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@starx0406" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@starx0406" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/akashplay05/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/akashplay05/" height="30" width="40" /></a>
-</p>
 
 
 <img align="right" width="250" src="https://raw.githubusercontent.com/Akash0406/Akash0406/main/gitt.gif">
