@@ -9,13 +9,7 @@
 
 - 🔭 I’m currently working on [SoSocial- Social Media Web Application](https://github.com/Akash0406/Codeial)
 
-- 🌱 I’m currently learning **Node.js & React.js**
-
-- 👨‍💻 All of my projects are available at [Github](https://github.com/Akash0406)
-
 - 📫 How to reach me **akashplay05@gmail.com**
-
-- 📄 Know about my experiences [Click Here](https://drive.google.com/file/d/1TS9q45YVqWJusbRj0OL93b74D_xHPw9E/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
