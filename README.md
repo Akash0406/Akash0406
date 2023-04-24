@@ -1,9 +1,7 @@
 
 
 <h1 align="center" style="font-size:40px; font-family: 'Source Sans Pro', sans-serif;">Hi 👋, I'm Akash Kumar Singh</h1>
-<h3 align="center">A passionate Web Developer.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akash0406&label=Profile%20views&color=0e75b6&style=flat" alt="akash0406" /> </p>
 
 <p align="left"> <a href="https://twitter.com/xarceus0406" target="blank"><img src="https://img.shields.io/twitter/follow/xarceus0406?logo=twitter&style=for-the-badge" alt="xarceus0406" /></a> </p>
 
